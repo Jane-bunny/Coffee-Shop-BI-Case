@@ -25,6 +25,7 @@ A comparative analysis of revenue, profit, and efficiency by employee, normalize
 ---
 
 ## 📂 Repository Structure
+---
 BI_CoffeeShop_Case/
 ├── data/
 │ ├── coffee_shop_data.xlsx
